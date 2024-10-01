@@ -1,6 +1,7 @@
 body {
 
     font-family: Arial, sans-serif;
+    font-size: clamp(12px, 2vw, 18px);
 
     background-color: #f4f4f9;
 
